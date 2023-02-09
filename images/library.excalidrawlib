@@ -1,0 +1,77 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "unpublished",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 120,
+          "versionNonce": 866418335,
+          "isDeleted": false,
+          "id": "reLXJ_WCu1xF7PLNhYEOg",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1422.0250591542522,
+          "y": 272.5722679879139,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 710.0625135999953,
+          "height": 490.52014495394053,
+          "seed": 487500447,
+          "groupIds": [],
+          "roundness": {
+            "type": 3
+          },
+          "boundElements": [],
+          "updated": 1671388980818,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "id": "GBICyhcZgGsEEMm340T4Y",
+      "created": 1671389381213
+    },
+    {
+      "status": "unpublished",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 790,
+          "versionNonce": 1636822943,
+          "isDeleted": false,
+          "id": "ZX1ZJiE0ScGg0JNSxlPD0",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 6.280927836418162,
+          "x": 24,
+          "y": -10637.200012207031,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 1535.2000732421875,
+          "height": 80,
+          "seed": 819937361,
+          "groupIds": [],
+          "roundness": {
+            "type": 3
+          },
+          "boundElements": [],
+          "updated": 1671238603508,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "id": "Vn10BwHHS2eFYxY6O5Nmq",
+      "created": 1671238649379
+    }
+  ]
+}

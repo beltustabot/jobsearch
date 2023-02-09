@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.loginbtn{
+	background-color: grey;
+	border:none;
+}
+nav.navbar   d-flex bg-primary justify-content-evenly{
+	background-color: orange;
+	
+}
